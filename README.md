@@ -29,7 +29,6 @@ What followed next was using Active Directory to create group policies, security
 
 I used VirtualBox to create both the DC “Domain Controller” and ‘Client’ machines (client machine created after setting up the Domain Controller completely and creation of 1,000 users).
 
-![1 DC VM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/05ee237c-3f07-4c7b-a2ac-61a7e2cc1a10) 
 <img width="1013" alt="Screen Shot 2025-04-09 at 1 43 49 PM" src="https://github.com/user-attachments/assets/9de3bbf1-b14b-44b1-a92b-9a040ee672cf" />
 
 
