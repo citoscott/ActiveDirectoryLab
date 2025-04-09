@@ -31,7 +31,6 @@ I used VirtualBox to create both the DC “Domain Controller” and ‘Client’
 
 <img width="1013" alt="Screen Shot 2025-04-09 at 1 43 49 PM" src="https://github.com/user-attachments/assets/9de3bbf1-b14b-44b1-a92b-9a040ee672cf" />
 
-
 ![2 CLIENT VM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/ee771bb1-0c2e-417d-8726-427fe1d26ec7)
 
 
