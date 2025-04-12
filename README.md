@@ -38,14 +38,11 @@ I used VirtualBox to create both the DC “Domain Controller” and ‘Client’
 
 Two network adapters were used to separate internal and external traffic which were renamed to be easily identified with ‘_Internet_’ for external and ‘X_Internal_X’ for internal.
 
-![3 network ](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/14fde5ab-94a8-40fb-9816-a399d908550b)
-<img width="831" alt="Screen Shot 2025-04-12 at 9 48 13 AM" src="https://github.com/user-attachments/assets/6ab3fb86-a5bb-45ed-8ee7-bcb466446811" />
+![image](https://github.com/user-attachments/assets/cfefd7bc-236b-4daa-8c3b-8bee3d9f7610)
 
+![image](https://github.com/user-attachments/assets/931f08ab-0a62-4e94-a32d-3e2bd09634eb)
 
-![Screenshot 2023-12-22 at 11 15 02 PM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/755917c5-e5b2-4293-88b4-ff2920a21b1a)
-
-![Screenshot 2023-12-22 at 11 15 29 PM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/afd41583-cd29-4d9e-a721-f7bf9859f698)
-
+![image](https://github.com/user-attachments/assets/be87c4c0-55a0-4cba-b705-594bcfd3224d)
 
 In addition, these roles and services within Active Directory and the DC were configured
 
