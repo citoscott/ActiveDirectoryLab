@@ -1,6 +1,7 @@
 # # Active Directory Corporate Simulation Using Oracle VirtualBox
 
-<img width="1013" alt="Screen Shot 2025-04-09 at 1 43 49 PM" src="https://github.com/user-attachments/assets/d6e190ca-99ed-4a32-9a16-c431f5910881" />
+![image](https://github.com/user-attachments/assets/43f1a044-c078-4dc7-8079-10a2a48ba37f)
+
 
 ## Introduction/Summary
 
