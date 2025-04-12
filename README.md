@@ -29,9 +29,9 @@ What followed next was using Active Directory to create group policies, security
 
 I used VirtualBox to create both the DC “Domain Controller” and ‘Client’ machines (client machine created after setting up the Domain Controller completely and creation of 1,000 users).
 
-<img width="1013" alt="Screen Shot 2025-04-09 at 1 43 49 PM" src="https://github.com/user-attachments/assets/9de3bbf1-b14b-44b1-a92b-9a040ee672cf" />
+![image](https://github.com/user-attachments/assets/6ae23cb6-8d59-4157-a760-cd82b6fc9d1a)
 
-<img width="830" alt="Screen Shot 2025-04-12 at 9 46 44 AM" src="https://github.com/user-attachments/assets/6301faab-7846-4b82-a97a-3e79eb1ce727" />
+![image](https://github.com/user-attachments/assets/709d28bd-2f8a-48c6-90b6-6af17c2dcc17)
 
 
 ## Windows Server 2019 and Active Directory Configuration
