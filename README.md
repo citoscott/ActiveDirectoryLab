@@ -46,25 +46,22 @@ Two network adapters were used to separate internal and external traffic which w
 
 In addition, these roles and services within Active Directory and the DC were configured
 
-![Screenshot 2023-12-22 at 11 16 26 PM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/680e892c-bf21-4050-8f17-806c51ebd4cf)
+![image](https://github.com/user-attachments/assets/d05b6b9b-b778-4bb0-aabb-a83bb33f7921)
 
+A custom name list was used with 1,000 fake names saved to a text doc. 
 
-A custom name list was used with 1,000 fake names saved to a text doc. and also my name at the top of the list to make it even more legit ;-)
-
-
-![5 list](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/00b354c8-b15b-44f0-bebf-9749d7a1bd06)
-
+![image](https://github.com/user-attachments/assets/56da0a14-b87d-4a8c-8418-861c5bd9aa31)
 
 A custom Powershell script was then executed inconjunction with the above name list to populate Active Directory, with the script parsing the names list & creating users by the first letter of the first name and the last name.
 
-![6 powershell 1](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/a027ef81-82c5-429d-ac14-d35c7333fe42)
+![image](https://github.com/user-attachments/assets/64a38146-9b73-45b9-b854-1e832bdd9073)
 
-![6 powershell 2](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/7a926f67-b162-464c-90d2-139fe2879f39)
+![image](https://github.com/user-attachments/assets/70c3ff45-0b32-434f-86a0-d123a15ae9a8)
 
-![7 powershell users](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/cc8bcfb8-a8a9-41ab-b7c1-d5824dc025c5)
+![image](https://github.com/user-attachments/assets/d3ffddfe-ccd1-4d1b-b32f-8234fb1e2c1e)
 
+![image](https://github.com/user-attachments/assets/8e5d0089-8dcd-42b1-88dd-ffa572f95574)
 
-![Screenshot 2023-12-22 at 11 20 55 PM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/f522fb58-2229-4d71-a53d-233770b725c4)
 
 ## Joining Windows 10 Pro To The Domain Controller
 
@@ -72,6 +69,11 @@ As stated earlier, I used VirtualBox to also create the Windows 10 Pro environme
 
 After this machine was joined with the DC, I then tried accessing it using credentials from 10 users that I previously generated, logging into the Windows 10 VM. Again, to act as if I was a client/user who just got access to the work network and logging in to my first day at work. Each one was able to login with success.
 
+![image](https://github.com/user-attachments/assets/95d8713f-af6b-4cd0-a2f9-0787c1b03b80)
+
+![image](https://github.com/user-attachments/assets/97f9f990-0600-4694-a0c6-84c90faef14f)
+
+![image](https://github.com/user-attachments/assets/73ae4f33-021d-4a2a-8197-2d108140b202)
 
 ## Conclusion
 
