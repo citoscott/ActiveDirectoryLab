@@ -2,13 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/43f1a044-c078-4dc7-8079-10a2a48ba37f)
 
-
 ## Introduction/Summary
 
 In this project, I built an Active Directory home lab utilizing Oracle Virtualbox to simulate a corporate environment with 1,000 users. The environment consisted of a Windows Server 2019 VM that acted as my ‘Domain Controller’, and a windows 10 Pro VM in place to act as a ‘client’ machine. To make the environment similar to a corporate structure, a custom Powershell script was used to populate Active Directory with 1,000 users, with each user given a unique name (first name and last) as well as a default password. The windows 10 Pro VM (our ‘client’ machine) was then configured and joined to the domain.
 
 What followed next was using Active Directory to create group policies, security groups & organization unites. In closing, Active Directory was configured to act as a centralized management system for computers, users accounts, etc. 
-
 
 ## Technologies and Components Used:
 
@@ -24,7 +22,6 @@ What followed next was using Active Directory to create group policies, security
 -	Internet Information Services (IIS)
 -	PowerShell
 
-
 ## VirtualBox Set-up
 
 I used VirtualBox to create both the DC “Domain Controller” and ‘Client’ machines (client machine created after setting up the Domain Controller completely and creation of 1,000 users).
@@ -32,7 +29,6 @@ I used VirtualBox to create both the DC “Domain Controller” and ‘Client’
 ![image](https://github.com/user-attachments/assets/6ae23cb6-8d59-4157-a760-cd82b6fc9d1a)
 
 ![image](https://github.com/user-attachments/assets/709d28bd-2f8a-48c6-90b6-6af17c2dcc17)
-
 
 ## Windows Server 2019 and Active Directory Configuration
 
@@ -59,9 +55,6 @@ A custom Powershell script was then executed inconjunction with the above name l
 ![image](https://github.com/user-attachments/assets/70c3ff45-0b32-434f-86a0-d123a15ae9a8)
 
 ![image](https://github.com/user-attachments/assets/d3ffddfe-ccd1-4d1b-b32f-8234fb1e2c1e)
-
-![image](https://github.com/user-attachments/assets/8e5d0089-8dcd-42b1-88dd-ffa572f95574)
-
 
 ## Joining Windows 10 Pro To The Domain Controller
 
