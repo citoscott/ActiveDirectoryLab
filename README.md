@@ -1,7 +1,6 @@
 # # Active Directory Corporate Simulation Using Oracle VirtualBox
 
-<img width="801" alt="Screenshot 2023-12-22 at 11 33 09 PM" src="https://github.com/EricMcclellan1/AD-Lab/assets/147299619/d2b3b411-5a6f-43d2-ab21-7b1b3bc114af">
-
+<img width="1013" alt="Screen Shot 2025-04-09 at 1 43 49 PM" src="https://github.com/user-attachments/assets/d6e190ca-99ed-4a32-9a16-c431f5910881" />
 
 ## Introduction/Summary
 
@@ -31,8 +30,7 @@ I used VirtualBox to create both the DC “Domain Controller” and ‘Client’
 
 <img width="1013" alt="Screen Shot 2025-04-09 at 1 43 49 PM" src="https://github.com/user-attachments/assets/9de3bbf1-b14b-44b1-a92b-9a040ee672cf" />
 
-![2 CLIENT VM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/ee771bb1-0c2e-417d-8726-427fe1d26ec7)
-
+<img width="830" alt="Screen Shot 2025-04-12 at 9 46 44 AM" src="https://github.com/user-attachments/assets/6301faab-7846-4b82-a97a-3e79eb1ce727" />
 
 
 ## Windows Server 2019 and Active Directory Configuration
@@ -40,6 +38,8 @@ I used VirtualBox to create both the DC “Domain Controller” and ‘Client’
 Two network adapters were used to separate internal and external traffic which were renamed to be easily identified with ‘_Internet_’ for external and ‘X_Internal_X’ for internal.
 
 ![3 network ](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/14fde5ab-94a8-40fb-9816-a399d908550b)
+<img width="831" alt="Screen Shot 2025-04-12 at 9 48 13 AM" src="https://github.com/user-attachments/assets/6ab3fb86-a5bb-45ed-8ee7-bcb466446811" />
+
 
 ![Screenshot 2023-12-22 at 11 15 02 PM](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/755917c5-e5b2-4293-88b4-ff2920a21b1a)
 
